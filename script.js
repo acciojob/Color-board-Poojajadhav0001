@@ -1,4 +1,3 @@
-//your JS code here. If required.
 / How many squares to render
 const TOTAL = 800;
 
@@ -45,4 +44,3 @@ for (let i = 0; i < TOTAL; i++) {
 
   board.appendChild(sq);
 }
-    
