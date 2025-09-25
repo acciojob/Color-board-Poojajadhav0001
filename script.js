@@ -45,4 +45,4 @@ for (let i = 0; i < TOTAL; i++) {
 
   board.appendChild(sq);
 }
-    }
+    
