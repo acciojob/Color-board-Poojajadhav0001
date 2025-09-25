@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.container {
+display: grid;
+grid-template-columns: repeat(40, 1fr);
+gap: 2px;
+width: 90vw;
+max-width: 1200px;
+margin: auto;
+}
+.square {
+aspect-ratio: 1 / 1;
+background-color: #eee;
+transition: background-color 1s ease;
+}
